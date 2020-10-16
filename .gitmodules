@@ -1,10 +1,7 @@
 [submodule "NumCpp"]
 	path = NumCpp
 	url = https://github.com/dpilger26/NumCpp.git
-[submodule "BOOST"]
-	path = BOOST
-	url = https://github.com/boostorg/boost.git
-	active = true
+
 
 [submodule "BOOST_system"]
 	path = BOOST/libs/system
