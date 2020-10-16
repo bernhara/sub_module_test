@@ -1,0 +1,9 @@
+
+[submodule "BOOST_system"]
+	path = system
+	url = https://github.com/boostorg/system.git
+	active = true
+[submodule "BOOST_math"]
+	path = match
+	url = https://github.com/boostorg/math.git
+	active = true
