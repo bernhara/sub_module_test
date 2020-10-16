@@ -3,11 +3,10 @@
 	url = https://github.com/dpilger26/NumCpp.git
 	active = true
 
-	
-[submodule "BOOST/math"]
-	path = BOOST/math
-	url = https://github.com/boostorg/math.git
-	
+
 [submodule "TOTO/titi"]
 	path = TOTO/titi
 	url = https://github.com/boostorg/filesystem.git
+[submodule "BOOST/libs/math"]
+	path = BOOST/libs/math
+	url = https://github.com/boostorg/math.git
