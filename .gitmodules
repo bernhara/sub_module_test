@@ -2,3 +2,11 @@
 	path = NumCpp
 	url = https://github.com/dpilger26/NumCpp.git
 
+[submodule "BOOST_system"]
+	path = BOOST/libs/system
+	url = https://github.com/boostorg/system.git
+	active = true
+[submodule "BOOST_math"]
+	path = BOOST/libs/math
+	url = https://github.com/boostorg/math.git
+	active = true
